@@ -3,7 +3,7 @@ name = "texture-crab"
 authors = ["Evan Kamuf"]
 version = "0.0.1"
 edition = "2021"
-description = "Author's introductory works with the Rust language."
+description = "Simple 2D & 3D texture sandbox."
 
 [dependencies]
 raylib = { version = "5.0" }
